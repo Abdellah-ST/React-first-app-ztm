@@ -1,0 +1,13 @@
+.card{
+    background-color: #61dafb;
+    padding: 10px;
+    border-radius: 5px;
+    width: 17vw;
+    /* height: 300px; */
+    box-shadow: 4px 10px 15px #333;
+    margin: 10px;
+  }
+  
+  .card:hover{
+    transform: scale(1.01);
+  }

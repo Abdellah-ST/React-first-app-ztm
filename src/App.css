@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background: rgb(59,113,121);
+background: linear-gradient(90deg, rgba(59,113,121,1) 0%, rgba(4,255,128,1) 100%);
+}
+
+h1{
+  font-family: 'Amita', cursive;
+  color: #61dafb;
 }
 
 .App-logo {
